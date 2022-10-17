@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @geraldodf26
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-geraldodf26/geraldodf26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, Eu me chamo Geraldo, graduado em Administração de Empresas pelo Centro Universitário do Planalto Central Apparecido dos Santos - UNICEPLAC.
+- Atuo como Analista de TI II no Instituto de Gestão Estratégica de Saúde Do Distrito Federal - IGESDF.
+- Proeficiência e experiência profissional em SQL, Microsoft Excel, Microsoft Power BI, Pentaho Data Integration, ApacheHOP, Wordpress, Adobe Indesign, modelagem e análise de dados.
+- Apaixonado por TI e eterno aprendiz em análise de dados. 😀
